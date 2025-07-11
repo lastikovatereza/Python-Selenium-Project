@@ -1,0 +1,7 @@
+pytest==8.4.0
+selenium==4.33.0
+webdriver-manager==4.0.2
+pytest-html==4.1.1
+#to make tests run in parallel
+pytest-xdist==3.7.0
+# edit in configuration (-n=number of tests running in total) AMAZING
