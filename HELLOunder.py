@@ -48,6 +48,5 @@ assert button_text.is_displayed()
 """
 THIS IS 
 HOW I MAKE 
-A HUUUGE 
-COMMENT
+A COMMENT
 """
